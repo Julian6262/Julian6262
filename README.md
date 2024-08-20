@@ -3,8 +3,6 @@ Hi ! My name is Dmitry Baburin
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [d.baburin62@gmail.com](mailto:d.baburin62@gmail.com) or phone +7-968-472-1273
-* 🚀  I'm currently working on [Like-Coin](http://julian6262.github.io/Like-Coin/)
-* ⚡  taekwondo 👍
 
 ### Skills
 
