@@ -15,11 +15,11 @@ Hi ! My name is Dmitry Baburin
 | OpenAI           | Language Models               | ![OpenAI](https://img.shields.io/badge/OpenAI-Language%20Models-00cc55)                             |
 | LoRa             | Low-Rank Adaptation           | ![LoRa](https://img.shields.io/badge/LoRa-Fine%20Tuning-blue)                                       |
 | Google Colab     | Online Jupyter Notebooks      | ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-yellow)                       |
-| PyTorch          | Deep Learning Framework       | ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)                                |
-| TensorFlow       | Machine Learning Framework    | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Machine%20Learning-blue)                      |
+| TensorFlow/keras | Machine Learning Framework    | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Machine%20Learning-blue)                      |
 | OpenCV           | Computer Vision Library       | ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-brightgreen)                        |
 | Pandas           | Data Manipulation Library     | ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-blueviolet)                       |
 | NumPy            | Data Manipulation Library     | ![Numpy](https://img.shields.io/badge/Numpy-Data%20Manipulation-green)                              |
+| Matplotlib       | Visualizing data Library     | ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizing%20data-yellow)                                                                                                       |    
 | Web Scraping     | Data Extraction from Websites | ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Data%20Extraction-blue)                 |
 | Flask            | Web Framework for Python      | ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-yellow)                                 |
 | FastAPI          | Web API Framework for Python  | ![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API%20Framework-green)                        |
