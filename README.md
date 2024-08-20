@@ -27,6 +27,22 @@ Hi ! My name is Dmitry Baburin
 
 </div>
 
+### Additional skills
+
+<div>
+
+| Tech Stack        | Badge                                                                                               |
+| :---------------  | :-------------------------------------------------------------------------------------------------- |
+| Python            | ![Python](https://img.shields.io/badge/Python-Programming%20Language-blue)                          |
+| Hugging Face      | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AI%20Library-ff69b4)                    |
+| OpenAI            | ![OpenAI](https://img.shields.io/badge/OpenAI-Language%20Models-00cc55)                             |
+| LoRa              | ![LoRa](https://img.shields.io/badge/LoRa-Fine%20Tuning-blue)                                       |
+| Google Colab      | ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-yellow)                       |
+| TensorFlow/keras  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Machine%20Learning-blue)                      |
+
+
+</div>
+
 ## 🌐 Socials
 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](d.baburin62@gmail.com)
