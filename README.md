@@ -24,7 +24,6 @@ Hi ! My name is Dmitry Baburin
 | Flask            | Web Framework for Python      | ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-yellow)                                 |
 | FastAPI          | Web API Framework for Python  | ![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API%20Framework-green)                        |
 | Scikit-learn     | Machine Learning Library      | ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-Machine%20Learning-lightgreen)          |
-| :--------------- | :---------------------------- | :-------------------------------------------------------------------------------------------------- |
 
 </div>
 
